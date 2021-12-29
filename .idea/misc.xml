@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android-Work/CH09Dialog/09-02 AlertDialog/src/main/res/layout/m0902.xml" value="0.3338541666666667" />
         <entry key="..\:/Android-Work/CH09Dialog/0901_DatePickerDlg/src/main/res/layout/m0901.xml" value="0.25" />
+        <entry key="..\:/Android-Work/CH09Dialog/0902_AlertDialog/src/main/res/layout/m0902.xml" value="0.3338541666666667" />
+        <entry key="..\:/Android-Work/CH09Dialog/0903_ProgressDialog/src/main/res/layout/m0903.xml" value="0.3140625" />
+        <entry key="..\:/Android-Work/CH09Dialog/0905_LoginDialog/src/main/res/layout/login_dlg.xml" value="0.3140625" />
+        <entry key="..\:/Android-Work/CH09Dialog/0905_LoginDialog/src/main/res/layout/m0905.xml" value="0.29583333333333334" />
       </map>
     </option>
   </component>
